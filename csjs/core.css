@@ -1,0 +1,20 @@
+div, p {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 23px;
+
+    color: #25408F;
+}
+
+body {
+    max-width: 500px;
+    margin: auto;
+}
+
+div {
+    margin: 20px;
+    text-align: center;
+}
